@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CgCapBookSpringRESTJPADataBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shmaruth
+Implementation-Vendor-Id: com.cg
+Build-Jdk: 1.8.0_73
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CgCapBookSpringRESTJPADataBoot
+Created-By: Maven Integration for Eclipse
+
